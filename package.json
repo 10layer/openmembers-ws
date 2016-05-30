@@ -1,0 +1,22 @@
+{
+  "name": "openmembers-ws",
+  "version": "0.0.1",
+  "description": "Websocket server for My.OPEN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10layer/openmembers-ws.git"
+  },
+  "author": "Jason Norwood-Young <jason@10layer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/10layer/openmembers-ws/issues"
+  },
+  "homepage": "https://github.com/10layer/openmembers-ws#readme",
+  "dependencies": {
+    "ws": "^1.1.0"
+  }
+}
