@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/10layer/openmembers-ws#readme",
   "dependencies": {
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   }
 }
